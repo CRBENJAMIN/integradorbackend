@@ -1,0 +1,59 @@
+  [     
+     {   "id": 1,
+         "name": "iPhone 8",
+         "price": 100000,
+         "description": "La pantalla se mantiene en 4.7 pulgadas, con la misma resolución Retina HD, pero incorpora soporte HDR10 y Dolby Vision. Por dentro del iPhone 8, encontramos un nuevo procesador A11 Bionic, una nueva cámara de 12 MP con captura de video 4K a 60fps, cámara FaceTime de 7 MP, Touch ID en el botón de inicio y una duración de batería con la misma duración que en el iPhone 7.",
+         "image": "https://news-cdn.softpedia.com/images/news2/apple-unveils-limited-edition-red-iphone-8-and-iphone-8-plus-available-april-13-520592-2.png"
+     },
+
+     {
+        "id": 2,
+        "name": "iPhone 8 plus",
+        "price": 120000,
+        "description": "El iPhone 8 Plus conserva la misma pantalla de su antecesor, con 5.5 pulgadas a resolución Full HD, con un nuevo diseño que combina aluminio con vidrio adelante y atrás. Por dentro, el iPhone 8 Plus está potenciado por el nuevo procesador A11 Bionic. El iPhone 8 Plus vuelve a contar con una cámara dual de 12 MP, con zoom óptico 2X, y aperturas combinables para efectos de fotografía y slow motion en 1080p y agrega soporte para carga inalámbrica en su batería con el mismo rendimiento que en el iPhone 7 Plus",
+        "image": "https://cdn.smart-gsm.com/img/picture/apple-iphone-8-plus.jpg"
+    }, 
+
+     {
+        "id": 3,
+        "name": "iPhone X",
+        "price": 140000,
+        "description": "El iPhone X es una demostración de fuerza de Apple, mostrando lo que es capaz de hacer y para celebrar los 10 años del iPhone. El iPhone X cuenta con una pantalla de 5.8 pulgadas que abarca todo el frente del teléfono, dejando un espacio arriba para acomodar todos los sensores que contribuyen a Face ID, el nuevo método de desbloqueo por rostro, ya que el botón Touch ID desaparece. Con una atípica resolución de 2436 x 1125 pixels, acomoda 458ppi. Por dentro, el iPhone X tiene el nuevo procesador A11 Bionic. La cámara es dual de 12 MP similar a la del iPhone 8, es resistente al agua y corre iOS 11.",
+        "image":"https://www.mytrendyphone.dk/images2/iPhone-X-64GB-3GB-RAM-Dual-12-MP-5-8-Super-AMOLED-Silver-18092017-04-p.jpg"
+    },
+
+     {
+        "id": 4,
+        "name": "iPhone XR",
+        "price": 160000,
+        "description": "El iPhone XR llega en el 2018 para reemplazar definitivamente el botón Touch ID en el iPhone. reemplazando a los modelos clásicos del iPhone, el iPhone XR tiene una pantalla LCD de 6.1 pulgadas de borde a borde con notch incluido y resolución Retina. El iPhone Xr está potenciado por el procesador A12 Bionic con 64GB, 128GB o 256GB de almacenamiento interno, y cuenta con una cámara de 12 megapixels, cámara frontal de 7 megapixels, carga inalámbrica y certificación IP67 a prueba de agua, disponible en una variedad enorme de colores",
+        "image": "https://cdn.movertix.com/media/catalog/product/cache/image/1200x/a/p/apple-iphone-xr-128-gb-rojo-0190198773227.jpg"
+    },
+      
+     {
+        "id": 5,
+        "name": "iPhone XS",
+        "price": 190000,
+        "description": "El iPhone XS es el sucesor del iPhone X que debutara el pasado año. Con una pantalla Super Retina OLED de 5.8 pulgadas, el iPhone XS está potenciado por el nuevo chip A12 Bionic de Apple, con opciones de almacenamiento interno de 64GB, 256GB o 512GB. La cámara del iPhone XS es dual de 12 MP, con zoom óptico 2X y estabilización de imagen, mientras que al frente cuenta con una cámara de 7 MP para selfies. Con sonido stereo, el iPhone Xs mejora su resistencia al agua con certificación IP68, y soporta carga inalámbrica, Apple Pay y Siri en iOS 12.",
+        "image":"https://d28i4xct2kl5lp.cloudfront.net/product_images/1588230815.4774463.jpg"
+    },
+      
+     {
+        "id": 6,
+        "name": "iPhone 11",
+        "price": 220000,
+        "description": "El iPhone 11 es el sucesor del iPhone Xr para el 2019. Este año el iPhone 11 llega con una pantalla de 6.1 pulgadas con resolución Liquid Retina y potenciado por un procesador Apple A13 Bionic con 64GB, 128GB o 256GB de almacenamiento interno. La cámara posterior del iPhone 11 ahora es dual, con un lente regular de 12 MP y otro gran angular de 12 MP, mientras que su cámara frontal es de 12 MP. El iPhone 11 cuenta con una batería de 3110 mAh con carga rápida, parlantes stereo con sonido Dolby Atmos, carga inalámbrica y utiliza reconocimiento de rostro Face ID para seguridad.",
+        "image":"https://foppo.fi/wp-content/uploads/2020/08/IPHONE-11-RED.jpg"
+    },
+     
+     {
+        "id": 7,
+        "name": "iPhone 12",
+        "price": 250000,
+        "description": "El iPhone 12 es parte de la serie 12 del iPhone de Apple, llegando en el 2020 con un diseño que recuerda al iPhone 4 y conectividad 5G. El iPhone 12 cuenta con una pantalla Super Retina XDR de 6.1 pulgadas de tecnología OLED y está potenciado por el nuevo procesador A14 Bionic, con opciones de 64GB, 128GB o 256GB de almacenamiento interno. El sistema de cámaras trasero es dual, con dos lentes de 12MP que agregan estabilización óptica de imagen, y varias mejoras de software y la cámara frontal TrueDepth es de 12 MP. El iPhone 12 utiliza reconocimiento de rostro Face ID para la seguridad, cuenta con soporte para carga rápida e inalámbrica, y corre iOS 14.",
+        "image":"https://top10smartfonov.ru/wp-content/uploads/2020/10/iphone-12-pro-max-graphite-hero.png"
+    }
+    
+    
+    ]
+    
