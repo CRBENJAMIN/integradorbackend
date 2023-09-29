@@ -1,5 +1,5 @@
 const express = require ('express')
-const app = express();
+const app = exprss();
 const productsRouter = require('./src/routes/products'); // Rename the variable to productsRouter
 const miMiddleware = (req, res, next) => {
   next();
